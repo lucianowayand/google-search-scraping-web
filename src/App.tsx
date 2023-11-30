@@ -4,7 +4,6 @@ export default function App() {
       <h1 className="text-3xl font-bold underline">
         Google Search Scraping Web
       </h1>
-      <Test />
     </div>
   );
 }
